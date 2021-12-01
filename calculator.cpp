@@ -18,3 +18,9 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+//lab1
+//lab1
+//lab1
+//lab1
+//lab1
+//lab1
